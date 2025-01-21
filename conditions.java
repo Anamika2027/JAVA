@@ -1,20 +1,20 @@
 //1st program
 
-// import java.util.Scanner;
-// public class conditions{
-//     public static void main(String[] args)
-//     {
-//         Scanner ob=new Scanner(System.in);
-//         int age= ob.nextInt();
-//         if(age>18)
-//         {
-//            System.out.println("Adult"); 
-//         }
-//         else{
-//             System.out.println("Not Adult");
-//         }
-//     }
-// }
+import java.util.Scanner;
+public class conditions{
+    public static void main(String[] args)
+    {
+        Scanner ob=new Scanner(System.in);
+        int age= ob.nextInt();
+        if(age>18)
+        {
+           System.out.println("Adult"); 
+        }
+        else{
+            System.out.println("Not Adult");
+        }
+    }
+}
 
 //2nd program;
 
