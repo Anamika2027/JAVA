@@ -18,42 +18,42 @@ public class conditions{
 
 //2nd program;
 
-// import java.util.Scanner;
-// public class conditions{
-//     public static void main(String[] args)
-//     {
-//         Scanner ob=new Scanner(System.in);
-//         int num=ob.nextInt();
-//         if(num%2==0)
-//         {
-//             System.out.println("Even");
-//         }
-//         else{
-//             System.out.println("Odd");
-//         }
-//     }
-// }
+import java.util.Scanner;
+public class conditions{
+    public static void main(String[] args)
+    {
+        Scanner ob=new Scanner(System.in);
+        int num=ob.nextInt();
+        if(num%2==0)
+        {
+            System.out.println("Even");
+        }
+        else{
+            System.out.println("Odd");
+        }
+    }
+}
 
 // 3rd program
 
-// import java.util.Scanner;
-// public class conditions{
-//     public static void main(String[] args)
-//     {
-//         Scanner ob=new Scanner(System.in);
-//         int num1=ob.nextInt();
-//         int num2=ob.nextInt();
-//         if(num1==num2){
-//             System.out.println("Equal");
-//         }
-//         else if(num1>num2){
-//             System.out.println("num1 is greater");
-//         }
-//         else{
-//             System.out.println("num2 is greater");
-//         }
-//     } 
-// }
+import java.util.Scanner;
+public class conditions{
+    public static void main(String[] args)
+    {
+        Scanner ob=new Scanner(System.in);
+        int num1=ob.nextInt();
+        int num2=ob.nextInt();
+        if(num1==num2){
+            System.out.println("Equal");
+        }
+        else if(num1>num2){
+            System.out.println("num1 is greater");
+        }
+        else{
+            System.out.println("num2 is greater");
+        }
+    } 
+}
 
 // 4th program
 
